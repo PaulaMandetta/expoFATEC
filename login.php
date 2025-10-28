@@ -3,7 +3,7 @@
     require_once 'head.php';
     ?>
 
-<body>
+<body class= bg-light>
     <!-- Navbar -->
     <?php
     require_once 'navbar.php';
@@ -13,7 +13,7 @@
     <div class="container-fluid pt-5 BG">
 
         <!-- 1ª DIV - LOGO e LOGIN -->
-        <div id="home" class="container my-1 py-1">
+        <div id="login" class="container my-1 py-1">
             <div class="row text-center align-items-center">
                 <!-- Coluna Imagem-->
                 <div class="col-6 d-flex justify-content-center">

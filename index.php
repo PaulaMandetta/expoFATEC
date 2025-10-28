@@ -3,7 +3,7 @@
     require_once 'head.php';
     ?>
 
-<body>
+<body class= bg-light>
     <!-- Navbar -->
     <?php
     require_once 'navbar.php';
